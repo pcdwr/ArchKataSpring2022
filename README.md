@@ -12,6 +12,12 @@ Team: Archikers
 
 This repository contains all documentation related to the architectural design of the Spotlight application for the Diversity Cyber Council. For information regarding the contents and organization of this documentation please refer to the FAQ at the end of this document.
 
+The [requirements document](KataInitialDocumentation/diversitycybercouncilkatarequirements20221653334648065.pdf) provides the intial requirements as given by the Diversity Cyber Council. The following is a summary of the applicaiton from that document:
+
+>"The Spotlight App Project is a sustained effort to amass a coalition of
+nonprofits in order to address specific needs within the communities we serve by leveraging a
+centralized platform as the base of operations to collaborate and make a collective impact."
+
 ## FAQ
 
 **Q: I want to contribute to this documentation. What tools are reuired to create documents?**

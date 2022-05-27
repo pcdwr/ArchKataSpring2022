@@ -1,0 +1,4 @@
+Non-profit
+Candidate
+Administrator
+Community Manager

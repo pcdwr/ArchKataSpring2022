@@ -18,11 +18,10 @@ The [requirements document](kata_initial_documentation/diversitycybercouncilkata
 nonprofits in order to address specific needs within the communities we serve by leveraging a
 centralized platform as the base of operations to collaborate and make a collective impact."
 
-## Overview Diagram
+The following diagram depicts a visual view of the application arhcitecture, both functionally and architecture:
 
 ![System Design Diagram](supporting_documentation/Functional%20and%20Technology%20Capability.drawio.png)
 
-![System Design Diagram](https://github.com/pcdwr/ArchKataSpring2022/blob/main/supporting_documentation/Functional%20and%20Technology%20Capability.drawio.png?raw=true)
 
 ## FAQ
 

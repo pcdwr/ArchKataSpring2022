@@ -20,7 +20,9 @@ centralized platform as the base of operations to collaborate and make a collect
 
 ## Overview Diagram
 
-!["System Design Diagram"](https://github.com/pcdwr/ArchKataSpring2022/blob/main/supporting_documentation/Functional%20and%20Technology%20Capability.drawio.png "System Design DIagram")
+![System Design Diagram](supporting_documentation/Functional%20and%20Technology%20Capability.drawio.png)
+
+![System Design Diagram](https://github.com/pcdwr/ArchKataSpring2022/blob/main/supporting_documentation/Functional%20and%20Technology%20Capability.drawio.png?raw=true)
 
 ## FAQ
 

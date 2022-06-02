@@ -20,7 +20,7 @@ centralized platform as the base of operations to collaborate and make a collect
 
 ## Overview Diagram
 
-[<img](https://github.com/pcdwr/ArchKataSpring2022/blob/main/supporting_documentation/Functional%20and%20Technology%20Capability.drawio.png)
+<img src=(https://github.com/pcdwr/ArchKataSpring2022/blob/main/supporting_documentation/Functional%20and%20Technology%20Capability.drawio.png) </img>
 
 ## FAQ
 

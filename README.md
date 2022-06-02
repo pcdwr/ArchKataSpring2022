@@ -18,6 +18,10 @@ The [requirements document](kata_initial_documentation/diversitycybercouncilkata
 nonprofits in order to address specific needs within the communities we serve by leveraging a
 centralized platform as the base of operations to collaborate and make a collective impact."
 
+## Overview Diagram
+
+[<img](https://github.com/pcdwr/ArchKataSpring2022/blob/main/supporting_documentation/Functional%20and%20Technology%20Capability.drawio.png)
+
 ## FAQ
 
 **Q: I want to contribute to this documentation. What tools are reuired to create documents?**

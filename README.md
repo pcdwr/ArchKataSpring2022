@@ -14,7 +14,7 @@ This repository contains all documentation related to the architectural design o
 
 The [requirements document](kata_initial_documentation/DiversityCyberCouncilKataRequirements2022.pdf) provides the intial requirements as given by the Diversity Cyber Council.
 
-**NOTE:** This repository is best consumed within the GitHub UI.
+**NOTE: This repository is best consumed within the GitHub UI.**
 
 ## Exexutive Summary
 

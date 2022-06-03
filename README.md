@@ -27,6 +27,17 @@ centralized platform as the base of operations to collaborate and make a collect
     * Provide capability to raise any issues related to service and getting the resolution
 * Proposed solution is going to be secure, highly available and cost-effective meeting Non-profit current and future operational need
 
+## Requirement Understanding
+
+## High level Use cases
+
+## Business and Architecture Principles
+
+## Conceptual Architecture
+
+![Conceptual Architecture](supporting_documentation/Functional%20and%20Technology%20Capability.drawio.png)
+
+<img width="398" alt="image" src="https://user-images.githubusercontent.com/1895452/171759688-af120674-4cec-4ab0-9b4a-fec71b0b1178.png">
 
 The following diagram depicts a visual view of the application arhcitecture, both functionally and architecture:
 

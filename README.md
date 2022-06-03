@@ -12,7 +12,9 @@ Team: Archikers
 
 This repository contains all documentation related to the architectural design of the Spotlight application for the Diversity Cyber Council. For information regarding the contents and organization of this documentation please refer to the FAQ at the end of this document.
 
-The [requirements document](kata_initial_documentation/DiversityCyberCouncilKataRequirements2022.pdf) provides the intial requirements as given by the Diversity Cyber Council. The following is a summary of the applicaiton from that document:
+The [requirements document](kata_initial_documentation/DiversityCyberCouncilKataRequirements2022.pdf) provides the intial requirements as given by the Diversity Cyber Council.
+
+**NOTE: This repository is best consumed within the GitHub UI.**
 
 ## Exexutive Summary
 
@@ -30,8 +32,28 @@ centralized platform as the base of operations to collaborate and make a collect
 ## Requirement Understanding
 
 ## High level Use cases
+![High Level Use Cases](supporting_documentation/UseCaseDiagram.drawio.png)
 
 ## Business and Architecture Principles
+
+The following principles will drive the Spotlight Platform architecture and build.
+### Business Principle
+* Build matching decision based on user preference, Not demand-supply
+To recommend matching, System will higher weighatge to user preference and Non-profit service offering attributes than ratinga & demand-supply 
+* Collaboration is the key 
+System will promote higher level of collaboration among system users (Non-Profits, Candidates and Administrators)
+* Turn Data into actionable Insight
+Every data attributes, use action, and interaction will be captured by system and will be used to generate insight. Which will promote better pridiction, matching and visibility
+* Ease of use
+System will be easy to use by different persona's on different devices
+### Architecture Principle 
+* Microservice architecture 
+System will be loosely coupled, extensible, scalable and easily maintainable. Microservice Architecuture will be followed
+* 12 Factor App priciple
+System will be built using 12 factor app principle
+* Responsive Web Design (RWD)
+User interface will be built using RWD principle allowing it to be render in different devices like desktop, tablet, mobile
+ 
 
 ## Conceptual Architecture
 
@@ -39,11 +61,12 @@ centralized platform as the base of operations to collaborate and make a collect
 
 ## Solution Architecture
 
-![Solution Architecture](supporting_documentation/Functional%20and%20Technology%20Capability.drawio.png)
+![Solution Architecture](supporting_documentation/FunctionalandTechnologyCapability.drawio.png)
 
 ## Technology Stack/Choices
 
 ## Architecture Decisions (ADRs)
+All ADRs may be referenced at [ADRs](architecture_decision_records).
 
 ## DevSecOps
 

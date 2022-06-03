@@ -1,4 +1,4 @@
-Non-profit. 
-Candidate. 
-Administrator. 
-Community Leader. 
+Non-profit.  
+Candidate.  
+Administrator.   
+Community Leader.  

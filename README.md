@@ -62,7 +62,7 @@ Platform will be cloud native and most of the components will be built and deplo
 
 ## Conceptual Architecture
 
-![Conceptual Architecture](conceptualsystemreq.png)
+![Coceptual Architecture](/supporting_documentation/conceptualsystemreq.png)
 
 ## Solution Architecture
 

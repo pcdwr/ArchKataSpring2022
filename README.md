@@ -41,6 +41,15 @@ centralized platform as the base of operations to collaborate and make a collect
 
 ![Solution Architecture](supporting_documentation/Functional%20and%20Technology%20Capability.drawio.png)
 
+## Technology Stack/Choices
+
+## Architecture Decisions (ADRs)
+
+## DevSecOps
+
+## Non-Functional Requirement mapping
+
+## Assumptions and constraints
 
 ## FAQ
 

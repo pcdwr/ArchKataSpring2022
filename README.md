@@ -35,7 +35,7 @@ centralized platform as the base of operations to collaborate and make a collect
 
 ## Conceptual Architecture
 
-![Conceptual Architecture](supporting_documentation/conceptionalsystemreq.drawio.png)
+![Conceptual Architecture](supporting_documentation/conceptualsystemreq.drawio.png)
 
 The following diagram depicts a visual view of the application arhcitecture, both functionally and architecture:
 

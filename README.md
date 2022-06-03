@@ -38,22 +38,27 @@ centralized platform as the base of operations to collaborate and make a collect
 
 The following principles will drive the Spotlight Platform architecture and build.
 ### Business Principle
-* Build matching decision based on user preference, Not demand-supply
+* **Build matching decision based on user preference, Not demand-supply** -
 To recommend matching, System will higher weighatge to user preference and Non-profit service offering attributes than ratinga & demand-supply 
-* Collaboration is the key 
+* **Collaboration is the key** -  
 System will promote higher level of collaboration among system users (Non-Profits, Candidates and Administrators)
-* Turn Data into actionable Insight
+* **Turn Data into actionable Insight** - 
 Every data attributes, use action, and interaction will be captured by system and will be used to generate insight. Which will promote better pridiction, matching and visibility
-* Ease of use
+* **Ease of use** -
 System will be easy to use by different persona's on different devices
 ### Architecture Principle 
-* Microservice architecture 
+* **Microservice architecture** - 
 System will be loosely coupled, extensible, scalable and easily maintainable. Microservice Architecuture will be followed
-* 12 Factor App priciple
+* **12 Factor App principle** -
 System will be built using 12 factor app principle
-* Responsive Web Design (RWD)
+* **Responsive Web Design (RWD)** - 
 User interface will be built using RWD principle allowing it to be render in different devices like desktop, tablet, mobile
- 
+* **Design for flexibility and Self Service** - 
+Platform will be flexible to extend and enhance the functionality. It will be developed such a way that user can use it with minimal support and collaborate among themselves to resolve any queries. This will eventually have less operational cost to run the platform    
+* **Enterprise & Data Security** -
+All technologies, solutions, tools, designs, applications, and methods used within the architecture must adhere to all security and privacy policies, procedures, guidelines, and standards. This will ensure that there is no security breaches and no financial liability to the company. Data will be accessible to authorized user 
+* **Cloud first approach** - 
+Platform will be cloud native and most of the components will be built and deployed on serverless platform. This will help to reduce the capital cost as well as provide inherent high availability, scalability, and extensibility. 
 
 ## Conceptual Architecture
 

@@ -4,7 +4,7 @@
 In Progress
 
 ## Context
-Do cost and tine contraints warrant a low code/no code solution? 
+Do cost and time contraints warrant a low code/no code solution? 
 
 ## Decision
 

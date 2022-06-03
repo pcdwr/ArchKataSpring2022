@@ -39,7 +39,7 @@ centralized platform as the base of operations to collaborate and make a collect
 
 ## Solution Architecture
 
-![Solution Architecture](supporting_documentation/Functional%20and%20Technology%20Capability.drawio.png)
+![Solution Architecture](supporting_documentation/FunctionalandTechnologyCapability.drawio.png)
 
 ## Technology Stack/Choices
 

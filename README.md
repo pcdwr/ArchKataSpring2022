@@ -35,14 +35,21 @@ centralized platform as the base of operations to collaborate and make a collect
 
 ## Conceptual Architecture
 
-![Conceptual Architecture](supporting_documentation/Functional%20and%20Technology%20Capability.drawio.png)
+![Conceptual Architecture](supporting_documentation/conceptualsystemreq.drawio.png)
 
-<img width="398" alt="image" src="https://user-images.githubusercontent.com/1895452/171759688-af120674-4cec-4ab0-9b4a-fec71b0b1178.png">
+## Solution Architecture
 
-The following diagram depicts a visual view of the application arhcitecture, both functionally and architecture:
+![Solution Architecture](supporting_documentation/Functional%20and%20Technology%20Capability.drawio.png)
 
-![System Design Diagram](supporting_documentation/Functional%20and%20Technology%20Capability.drawio.png)
+## Technology Stack/Choices
 
+## Architecture Decisions (ADRs)
+
+## DevSecOps
+
+## Non-Functional Requirement mapping
+
+## Assumptions and constraints
 
 ## FAQ
 

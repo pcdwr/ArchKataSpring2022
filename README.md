@@ -30,6 +30,7 @@ centralized platform as the base of operations to collaborate and make a collect
 ## Requirement Understanding
 
 ## High level Use cases
+![High Level Use Cases](supporting_documentation/UseCaseDiagram.drawio.png)
 
 ## Business and Architecture Principles
 
@@ -44,6 +45,7 @@ centralized platform as the base of operations to collaborate and make a collect
 ## Technology Stack/Choices
 
 ## Architecture Decisions (ADRs)
+All ADRs may be referenced at [ADRs](architecture_decision_records).
 
 ## DevSecOps
 

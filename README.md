@@ -47,8 +47,6 @@ Every data attributes, use action, and interaction will be captured by system an
 * **Ease of use** -
 System will be easy to use by different persona's on different devices
 ### Architecture Principle 
-* **Microservice architecture** - 
-System will be loosely coupled, extensible, scalable and easily maintainable. Microservice Architecuture will be followed
 * **12 Factor App principle** -
 System will be built using 12 factor app principle
 * **Responsive Web Design (RWD)** - 

@@ -4,10 +4,10 @@
 Complete
 
 ## Context
-Based on the toolkit used for logging and monitoring he system will need a method of proactively observing issues.
+Based on the toolkit used for logging and monitoring the system will need a method of proactively observing issues.
 
 ## Decision
-Since the system will utilize Firebase the Firebase Performance Monitoring alerting tool will be used to generate alerts.
+Since the system will utilize Firebase, the Firebase Performance Monitoring alerting tool will be used to generate alerts.
 
 ## Consequences
 

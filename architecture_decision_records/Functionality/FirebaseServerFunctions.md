@@ -7,7 +7,7 @@ Complete
 Should the business functionality be implemented in server functions vs micro-services?
 
 ## Decision
-The functionality will be implemented using cloud functions. This processing is available in the FIrebase project on a pay as you go basis.
+The functionality will be implemented using cloud functions. This processing is available in the Firebase project on a pay as you go basis.
 
 ## Consequences
 

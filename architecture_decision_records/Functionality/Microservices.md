@@ -21,4 +21,3 @@ The functionality will be implemented using cloud functions. A micro service req
 * Significant monitoring and alerting must be defined
 * Significant skill set required to maintain over time
 * More difficult to create a pay as you go implementation
-

@@ -60,7 +60,7 @@ Platform will be cloud native and most of the components will be built and deplo
 
 ## Conceptual Architecture
 
-![Coceptual Architecture](/supporting_documentation/conceptualsystemreq.png)
+![Conceptual Architecture](/supporting_documentation/conceptualsystemreq.png)
 
 ## Solution Architecture
 
@@ -80,6 +80,9 @@ Platform will be cloud native and most of the components will be built and deplo
 All ADRs may be referenced at [ADRs](architecture_decision_records).
 
 ## DevSecOps
+Security concerns are addressed through the following tools:
+1. Real time access protection is provided through Firebase App Check
+2. Secrets are stored in Google's Cloud Secret Manager
 
 ## Non-Functional Requirement mapping
 

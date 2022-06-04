@@ -1,7 +1,7 @@
 # WebCDN
 
 ## Status
-Completed
+Accepted
 
 ## Context
 The assets for the web browser must be accessible from a well known URL. This URL and a CDN for edge distribution are required. Developing as a responsive app also provides the ability to access the UI from a mobile phone.

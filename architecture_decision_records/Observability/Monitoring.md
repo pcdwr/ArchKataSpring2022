@@ -1,7 +1,7 @@
 # Monitoring
 
 ## Status
-Complete
+Accepted
 
 ## Context
 A tool should be utilized to contually monitor the perofrmance and availability of the system.

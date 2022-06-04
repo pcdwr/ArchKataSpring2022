@@ -1,7 +1,7 @@
 # Micro-Services
 
 ## Status
-Complete
+Accepted
 
 ## Context
 Should the business functionality be implemented in server functions vs micro-services?

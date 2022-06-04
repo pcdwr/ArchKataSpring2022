@@ -1,7 +1,7 @@
 # Google Store
 
 ## Status
-Complete
+Accepted
 
 ## Context
 Should we create and distribute an Android app?

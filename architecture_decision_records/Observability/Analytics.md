@@ -1,7 +1,7 @@
 # Analytics
 
 ## Status
-Complete
+Accepted
 
 ## Context
 In order to monitor user interaction and saisfaction a tool should be used to gather analytics from both the UI and business functionality processing.

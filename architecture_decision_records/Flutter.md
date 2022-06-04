@@ -1,7 +1,7 @@
 # Google Flutter
 
 ## Status
-In progress
+Proposed
 
 ## Context
 Using Google flutter will cast a large net for potential users. Onde code base can support iOS, Android, web, and desktops.

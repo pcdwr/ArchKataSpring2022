@@ -1,7 +1,7 @@
 # Google Firebase
 
 ## Status
-In progress
+Proposed
 
 ## Context
 Should we consider using Google Firebase? This provides a global CDN, a persistent data store, and a serverless implementation.

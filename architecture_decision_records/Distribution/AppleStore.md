@@ -1,7 +1,7 @@
 # Apple Store
 
 ## Status
-Complete
+Accepted
 
 ## Context
 Should we create and distribute an iOS app?

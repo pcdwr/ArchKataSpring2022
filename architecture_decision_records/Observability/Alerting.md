@@ -1,7 +1,7 @@
 # Alerting
 
 ## Status
-Complete
+Accepted
 
 ## Context
 Based on the toolkit used for logging and monitoring the system will need a method of proactively observing issues.

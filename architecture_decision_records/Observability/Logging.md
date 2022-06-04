@@ -1,7 +1,7 @@
 # Logging
 
 ## Status
-Complete
+Accepted
 
 ## Context
 A tool must be chosen to collect and aggregate logging within the system.

@@ -1,7 +1,7 @@
 # Persistence Store
 
 ## Status
-Completed
+Accepted
 
 ## Context
 A persistent data store is required for the application. The following choices were considered:

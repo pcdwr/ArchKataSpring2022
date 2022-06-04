@@ -67,13 +67,14 @@ Platform will be cloud native and most of the components will be built and deplo
 ![Solution Architecture](supporting_documentation/FunctionalandTechnologyCapability.drawio.png)
 
 ## Technology Stack/Choices
-Front End - Flutter 3
-Business and Service logic - Firebase
-Data Store - GraphDB - Neo4j, No SQL DB - Firebase Realtime DB
-Analytics & Reporting - GCP Looker
-Build and Deployment Platform - Firebase, Google Cloud (GCP)
-
-TODO: Create a table or diagram to depict above
+* Front End - Flutter 3
+* Rich text editor (for Non-Profit to manage their content) - FlutterQuill
+* Business and Service logic - Firebase
+* Programming Language - Business logic - Java & NodeJs, Data logic and flow - Python, 
+* Data Store - GraphDB - Neo4j, No SQL DB - Firebase Realtime DB, Media content store - CloudStorage on GCP
+* Analytics & Reporting - GCP Looker
+* Collaboration logic - Custom build Or integrate tool like Slack (decision to be taken post understanding requirement in detail)
+* Build and Deployment Platform - Firebase, Google Cloud (GCP)
 
 ## Architecture Decisions (ADRs)
 All ADRs may be referenced at [ADRs](architecture_decision_records).
